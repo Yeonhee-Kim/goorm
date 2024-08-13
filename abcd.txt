@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 abcd
 abcd
+=======
+efgh
+>>>>>>> dev
